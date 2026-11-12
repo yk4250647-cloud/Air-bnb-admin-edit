@@ -1,0 +1,54 @@
+{
+  "studio": [
+    "/images/studio-1.png",
+    "/images/studio-2.png",
+    "/images/studio-3.png",
+    "/images/studio-4.png",
+    "/images/studio-5.png",
+    "/images/studio-6.png",
+    "/images/studio-7.png",
+    "/images/studio-8.png",
+    "/images/studio-9.png",
+    "/images/studio-10.png",
+    "/images/studio-11.png",
+    "/images/studio-12.png",
+    "/images/studio-13.png",
+    "/images/studio-14.png"
+  ],
+  "signature-2bhk": [
+    "/images/signature-2bhk-1.png",
+    "/images/signature-2bhk-2.png",
+    "/images/signature-2bhk-3.png",
+    "/images/signature-2bhk-4.png",
+    "/images/signature-2bhk-5.png",
+    "/images/signature-2bhk-6.png",
+    "/images/signature-2bhk-7.png",
+    "/images/signature-2bhk-8.png",
+    "/images/signature-2bhk-9.png",
+    "/images/signature-2bhk-10.png",
+    "/images/signature-2bhk-11.png",
+    "/images/signature-2bhk-12.png",
+    "/images/signature-2bhk-13.png",
+    "/images/signature-2bhk-14.png",
+    "/images/signature-2bhk-15.png",
+    "/images/signature-2bhk-16.png"
+  ],
+  "urban-2bhk": [
+    "/images/urban-2bhk-1.jpeg",
+    "/images/urban-2bhk-2.jpeg",
+    "/images/urban-2bhk-3.jpeg",
+    "/images/urban-2bhk-4.jpeg",
+    "/images/urban-2bhk-5.jpeg",
+    "/images/urban-2bhk-6.jpeg",
+    "/images/urban-2bhk-7.jpeg",
+    "/images/urban-2bhk-8.jpeg",
+    "/images/urban-2bhk-9.jpeg"
+  ],
+  "terrace-2bhk": [
+    "/images/terrace-2bhk-1.jpeg",
+    "/images/terrace-2bhk-2.jpeg",
+    "/images/terrace-2bhk-3.jpeg",
+    "/images/terrace-2bhk-4.jpeg",
+    "/images/terrace-2bhk-5.jpeg"
+  ]
+}
